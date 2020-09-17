@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "globalize@1.6.0",
+      "destination": "wwwroot/lib/globalize/",
+      "files": [
+        "LICENSE",
+        "dist/globalize-runtime.js",
+        "dist/globalize-runtime.min.js",
+        "dist/globalize.js",
+        "dist/globalize.min.js",
+        "dist/node-main.js",
+        "dist/node-main.min.js",
+        "dist/globalize/currency.js",
+        "dist/globalize/currency.min.js",
+        "dist/globalize/date.js",
+        "dist/globalize/date.min.js",
+        "dist/globalize/message.js",
+        "dist/globalize/message.min.js",
+        "dist/globalize/number.js",
+        "dist/globalize/number.min.js",
+        "dist/globalize/plural.js",
+        "dist/globalize/plural.min.js",
+        "dist/globalize/relative-time.js",
+        "dist/globalize/relative-time.min.js",
+        "dist/globalize/unit.js",
+        "dist/globalize/unit.min.js",
+        "dist/globalize-runtime/currency.js",
+        "dist/globalize-runtime/currency.min.js",
+        "dist/globalize-runtime/date.js",
+        "dist/globalize-runtime/date.min.js",
+        "dist/globalize-runtime/message.js",
+        "dist/globalize-runtime/message.min.js",
+        "dist/globalize-runtime/number.js",
+        "dist/globalize-runtime/number.min.js",
+        "dist/globalize-runtime/plural.js",
+        "dist/globalize-runtime/plural.min.js",
+        "dist/globalize-runtime/relative-time.js",
+        "dist/globalize-runtime/relative-time.min.js",
+        "dist/globalize-runtime/unit.js",
+        "dist/globalize-runtime/unit.min.js"
+      ]
+    },
+    {
+      "library": "jquery-validation-globalize@0.1.1",
+      "destination": "wwwroot/lib/jquery-validation-globalize/",
+      "files": [
+        "jquery.validate.globalize.js",
+        "LICENSE"
+      ]
+    },
+    {
+      "library": "cldrjs@0.5.4",
+      "destination": "wwwroot/lib/cldrjs/",
+      "files": [
+        "LICENSE-MIT",
+        "dist/cldr.js",
+        "dist/cldr.min.js",
+        "dist/node_main.js",
+        "dist/node_main.min.js",
+        "dist/cldr/event.js",
+        "dist/cldr/event.min.js",
+        "dist/cldr/supplemental.js",
+        "dist/cldr/supplemental.min.js",
+        "dist/cldr/unresolved.js",
+        "dist/cldr/unresolved.min.js"
+      ]
+    }
+  ]
+}
